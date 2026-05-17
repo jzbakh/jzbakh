@@ -17,25 +17,45 @@
 
 <br>
 
-I design and ship end-to-end products: data dashboards, automations, AI agents. Each combines a structured engineering methodology with systematic human verification.
+I design and ship end-to-end products: data dashboards, automations, AI agents.
+Each follows a structured engineering methodology at every stage of the cycle: data analysis, development, design, marketing and long-term strategy.
 
 ## 📂 Projects
 
 #### [• ARN-Skin — VS Code extension](https://github.com/jzbakh/antigravity-arn-skin)
 
-[![ARN-Skin VS Code extension Marketplace version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jzbakh/antigravity-arn-skin/badges/.github/badges/marketplace-version.json)](https://marketplace.visualstudio.com/items?itemName=jzbakh.antigravity-arn-skin)
-[![ARN-Skin Visual Studio Marketplace downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jzbakh/antigravity-arn-skin/badges/.github/badges/marketplace-installs.json)](https://marketplace.visualstudio.com/items?itemName=jzbakh.antigravity-arn-skin)
-[![ARN-Skin Open VSX Registry version](https://img.shields.io/open-vsx/v/jzbakh/antigravity-arn-skin?label=Open%20VSX&color=blue)](https://open-vsx.org/extension/jzbakh/antigravity-arn-skin)
-[![ARN-Skin Open VSX downloads](https://img.shields.io/open-vsx/dt/jzbakh/antigravity-arn-skin?label=Downloads&color=success)](https://open-vsx.org/extension/jzbakh/antigravity-arn-skin)
-[![ARN-Skin GitHub repository stars](https://img.shields.io/github/stars/jzbakh/antigravity-arn-skin?style=flat&color=gold)](https://github.com/jzbakh/antigravity-arn-skin)
+[![ARN-Skin VS Code extension on Visual Studio Marketplace (JavaScript, IDE plugin in production, color theme engineering)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jzbakh/antigravity-arn-skin/badges/.github/badges/marketplace-version.json)](https://marketplace.visualstudio.com/items?itemName=jzbakh.antigravity-arn-skin)
+[![ARN-Skin Visual Studio Marketplace installs (JavaScript production deployment, marketplace publishing)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jzbakh/antigravity-arn-skin/badges/.github/badges/marketplace-installs.json)](https://marketplace.visualstudio.com/items?itemName=jzbakh.antigravity-arn-skin)
+[![ARN-Skin on Open VSX Registry (open source IDE distribution, Eclipse Foundation)](https://img.shields.io/open-vsx/v/jzbakh/antigravity-arn-skin?label=Open%20VSX&color=blue)](https://open-vsx.org/extension/jzbakh/antigravity-arn-skin)
+[![ARN-Skin Open VSX downloads (open source JavaScript project, multi-platform distribution)](https://img.shields.io/open-vsx/dt/jzbakh/antigravity-arn-skin?label=Downloads&color=success)](https://open-vsx.org/extension/jzbakh/antigravity-arn-skin)
+[![ARN-Skin GitHub repository stars (open source maintainer, JavaScript, GitHub Actions CI/CD, cross-platform tests)](https://img.shields.io/github/stars/jzbakh/antigravity-arn-skin?style=flat&color=gold)](https://github.com/jzbakh/antigravity-arn-skin)
 
 7 UI &amp; syntax themes + customization, 100 % native JavaScript, zero dependencies.
 
 ---
 
+#### [• ARN-Lifebar — Antigravity IDE extension](https://github.com/jzbakh/antigravity-arn-lifebar)
+
+[![ARN-Lifebar Visual Studio Marketplace version (JavaScript IDE extension in production, real-time status bar, API monitoring)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jzbakh/antigravity-arn-lifebar/badges/.github/badges/marketplace-version.json)](https://marketplace.visualstudio.com/items?itemName=jzbakh.antigravity-arn-lifebar)
+[![ARN-Lifebar Visual Studio Marketplace installs (JavaScript production deployment, IDE integration)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jzbakh/antigravity-arn-lifebar/badges/.github/badges/marketplace-installs.json)](https://marketplace.visualstudio.com/items?itemName=jzbakh.antigravity-arn-lifebar)
+[![ARN-Lifebar on Open VSX Registry (open source IDE extension, JavaScript)](https://img.shields.io/open-vsx/v/jzbakh/antigravity-arn-lifebar?label=Open%20VSX&color=blue)](https://open-vsx.org/extension/jzbakh/antigravity-arn-lifebar)
+[![ARN-Lifebar Open VSX downloads (open source JavaScript project, cross-platform distribution)](https://img.shields.io/open-vsx/dt/jzbakh/antigravity-arn-lifebar?label=Downloads&color=success)](https://open-vsx.org/extension/jzbakh/antigravity-arn-lifebar)
+[![ARN-Lifebar GitHub repository stars (open source maintainer, JavaScript, language server integration, real-time API polling)](https://img.shields.io/github/stars/jzbakh/antigravity-arn-lifebar?style=flat&color=gold)](https://github.com/jzbakh/antigravity-arn-lifebar)
+
+Real-time AI model quota tracking in the IDE status bar. 100 % native JavaScript, zero dependencies.
+
+---
+
 #### [• Portfolio Data Analyst](https://github.com/jzbakh/Formation-Data-Analyst/)
 
-The 13 projects completed for the Data Analyst degree (OpenClassrooms): Python (Pandas, Scikit-learn), SQL, Power BI, KNIME, statistics and Machine Learning.
+[![Python — 5 projects (Pandas, NumPy, Scikit-learn)](https://img.shields.io/badge/Python-5_projects-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/jzbakh/Formation-Data-Analyst/)
+[![SQL — 2 projects (relational databases, joins, aggregation)](https://img.shields.io/badge/SQL-2_projects-4479A1?style=flat&logo=mysql&logoColor=white)](https://github.com/jzbakh/Formation-Data-Analyst/)
+[![Power BI — 3 projects (DAX, Power Query, dashboards)](https://img.shields.io/badge/Power_BI-3_projects-F2C811?style=flat&logo=powerbi&logoColor=black)](https://github.com/jzbakh/Formation-Data-Analyst/)
+[![KNIME — 1 project (workflows, ETL, data preparation)](https://img.shields.io/badge/KNIME-1_project-FECB00?style=flat)](https://github.com/jzbakh/Formation-Data-Analyst/)
+[![Statistics — 3 projects (hypothesis testing, regression, time series, Chi-2, ANOVA, Pearson)](https://img.shields.io/badge/Statistics-3_projects-4CAF50?style=flat)](https://github.com/jzbakh/Formation-Data-Analyst/)
+[![Machine Learning — 2 projects (classification, clustering, K-means, PCA, logistic regression)](https://img.shields.io/badge/Machine_Learning-2_projects-FF6F00?style=flat&logo=scikitlearn&logoColor=white)](https://github.com/jzbakh/Formation-Data-Analyst/)
+
+The 13 projects completed for the Data Analyst degree (OpenClassrooms).
 
 ---
 
@@ -43,7 +63,6 @@ The 13 projects completed for the Data Analyst degree (OpenClassrooms): Python (
 
 - **[BMAD-FR](https://github.com/jzbakh/BMAD-FR)** — Frenchified fork of the BMAD agentic framework, public on GitHub, imminent NPM publication
 - **Agentic AI research engine** — Multi-model web research with sourced documentary synthesis, open-source DeepSearch equivalent
-- **ARN-Lifebar** — Antigravity IDE extension for AI model quota tracking, imminent publication
 
 *Archived: [ARN-Yes](https://github.com/jzbakh/antigravity-arn-yes) — early Antigravity IDE extension, deprecated pre-launch.*
 
@@ -113,17 +132,18 @@ Heritage from 10 years in the field: electrical installation, computer networks,
 
 <br>
 
-Je conçois et déploie des produits end-to-end : dashboards data, automatisations, agents IA. Chacun combine une méthodologie d'ingénierie structurée et une validation humaine systématique.
+Je conçois et déploie des produits end-to-end : dashboards data, automatisations, agents IA.
+Chacun suit une méthodologie d'ingénierie structurée à chaque étape du cycle : analyse data, développement, design, marketing et stratégie long terme.
 
 ## 📂 Projets
 
 #### [• ARN-Skin — Extension VS Code](https://github.com/jzbakh/antigravity-arn-skin)
 
-[![ARN-Skin VS Code extension Marketplace version](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jzbakh/antigravity-arn-skin/badges/.github/badges/marketplace-version.json)](https://marketplace.visualstudio.com/items?itemName=jzbakh.antigravity-arn-skin)
-[![ARN-Skin Visual Studio Marketplace downloads](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jzbakh/antigravity-arn-skin/badges/.github/badges/marketplace-installs.json)](https://marketplace.visualstudio.com/items?itemName=jzbakh.antigravity-arn-skin)
-[![ARN-Skin Open VSX Registry version](https://img.shields.io/open-vsx/v/jzbakh/antigravity-arn-skin?label=Open%20VSX&color=blue)](https://open-vsx.org/extension/jzbakh/antigravity-arn-skin)
-[![ARN-Skin Open VSX downloads](https://img.shields.io/open-vsx/dt/jzbakh/antigravity-arn-skin?label=Downloads&color=success)](https://open-vsx.org/extension/jzbakh/antigravity-arn-skin)
-[![ARN-Skin GitHub repository stars](https://img.shields.io/github/stars/jzbakh/antigravity-arn-skin?style=flat&color=gold)](https://github.com/jzbakh/antigravity-arn-skin)
+[![ARN-Skin VS Code extension on Visual Studio Marketplace (JavaScript, IDE plugin in production, color theme engineering)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jzbakh/antigravity-arn-skin/badges/.github/badges/marketplace-version.json)](https://marketplace.visualstudio.com/items?itemName=jzbakh.antigravity-arn-skin)
+[![ARN-Skin Visual Studio Marketplace installs (JavaScript production deployment, marketplace publishing)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jzbakh/antigravity-arn-skin/badges/.github/badges/marketplace-installs.json)](https://marketplace.visualstudio.com/items?itemName=jzbakh.antigravity-arn-skin)
+[![ARN-Skin on Open VSX Registry (open source IDE distribution, Eclipse Foundation)](https://img.shields.io/open-vsx/v/jzbakh/antigravity-arn-skin?label=Open%20VSX&color=blue)](https://open-vsx.org/extension/jzbakh/antigravity-arn-skin)
+[![ARN-Skin Open VSX downloads (open source JavaScript project, multi-platform distribution)](https://img.shields.io/open-vsx/dt/jzbakh/antigravity-arn-skin?label=Downloads&color=success)](https://open-vsx.org/extension/jzbakh/antigravity-arn-skin)
+[![ARN-Skin GitHub repository stars (open source maintainer, JavaScript, GitHub Actions CI/CD, cross-platform tests)](https://img.shields.io/github/stars/jzbakh/antigravity-arn-skin?style=flat&color=gold)](https://github.com/jzbakh/antigravity-arn-skin)
 
 7 thèmes UI &amp; syntaxe + personnalisation, 100 % JavaScript natif, zéro dépendance.
 
@@ -131,7 +151,14 @@ Je conçois et déploie des produits end-to-end : dashboards data, automatisatio
 
 #### [• Portfolio Data Analyst](https://github.com/jzbakh/Formation-Data-Analyst/)
 
-Les 13 projets réalisés pour l'obtention du diplôme Data Analyst (OpenClassrooms) : Python (Pandas, Scikit-learn), SQL, Power BI, KNIME, statistiques et Machine Learning.
+[![Python — 5 projets (Pandas, NumPy, Scikit-learn)](https://img.shields.io/badge/Python-5_projets-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/jzbakh/Formation-Data-Analyst/)
+[![SQL — 2 projets (bases de données relationnelles, jointures, agrégation)](https://img.shields.io/badge/SQL-2_projets-4479A1?style=flat&logo=mysql&logoColor=white)](https://github.com/jzbakh/Formation-Data-Analyst/)
+[![Power BI — 3 projets (DAX, Power Query, tableaux de bord)](https://img.shields.io/badge/Power_BI-3_projets-F2C811?style=flat&logo=powerbi&logoColor=black)](https://github.com/jzbakh/Formation-Data-Analyst/)
+[![KNIME — 1 projet (workflows, ETL, préparation de données)](https://img.shields.io/badge/KNIME-1_projet-FECB00?style=flat)](https://github.com/jzbakh/Formation-Data-Analyst/)
+[![Statistiques — 3 projets (tests d'hypothèse, régression, séries temporelles, Chi-2, ANOVA, Pearson)](https://img.shields.io/badge/Statistiques-3_projets-4CAF50?style=flat)](https://github.com/jzbakh/Formation-Data-Analyst/)
+[![Machine Learning — 2 projets (classification, clustering, K-means, ACP, régression logistique)](https://img.shields.io/badge/Machine_Learning-2_projets-FF6F00?style=flat&logo=scikitlearn&logoColor=white)](https://github.com/jzbakh/Formation-Data-Analyst/)
+
+Les 13 projets réalisés pour l'obtention du diplôme Data Analyst (OpenClassrooms).
 
 ---
 
@@ -139,7 +166,6 @@ Les 13 projets réalisés pour l'obtention du diplôme Data Analyst (OpenClassro
 
 - **[BMAD-FR](https://github.com/jzbakh/BMAD-FR)** — Fork francisé du framework agentique BMAD, dépôt GitHub public, publication NPM imminente
 - **Moteur de recherche IA agentique** — Recherche web multi-modèles avec synthèse documentaire sourcée, équivalent open-source de DeepSearch
-- **ARN-Lifebar** — Extension Antigravity IDE pour suivi des quotas modèles IA, publication imminente
 
 *Archivé : [ARN-Yes](https://github.com/jzbakh/antigravity-arn-yes) — extension Antigravity IDE de première itération, dépréciée pré-lancement.*
 
