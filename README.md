@@ -61,7 +61,6 @@ The 13 projects completed for the Data Analyst degree (OpenClassrooms).
 
 ## 🚧 Currently building
 
-- **[BMAD-FR](https://github.com/jzbakh/BMAD-FR)** — Frenchified fork of the BMAD agentic framework, public on GitHub, imminent NPM publication
 - **Agentic AI research engine** — Multi-model web research with sourced documentary synthesis, open-source DeepSearch equivalent
 
 *Archived: [ARN-Yes](https://github.com/jzbakh/antigravity-arn-yes) — early Antigravity IDE extension, deprecated pre-launch.*
@@ -164,7 +163,6 @@ Les 13 projets réalisés pour l'obtention du diplôme Data Analyst (OpenClassro
 
 ## 🚧 En construction
 
-- **[BMAD-FR](https://github.com/jzbakh/BMAD-FR)** — Fork francisé du framework agentique BMAD, dépôt GitHub public, publication NPM imminente
 - **Moteur de recherche IA agentique** — Recherche web multi-modèles avec synthèse documentaire sourcée, équivalent open-source de DeepSearch
 
 *Archivé : [ARN-Yes](https://github.com/jzbakh/antigravity-arn-yes) — extension Antigravity IDE de première itération, dépréciée pré-lancement.*
