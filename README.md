@@ -2,10 +2,9 @@
 
 #### [• ARN-Skin - VS Code extension](https://github.com/jzbakh/antigravity-arn-skin)
 
-[![ARN-Skin VS Code extension on Visual Studio Marketplace (JavaScript, IDE plugin in production, color theme engineering)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jzbakh/antigravity-arn-skin/badges/.github/badges/marketplace-version.json)](https://marketplace.visualstudio.com/items?itemName=jzbakh.antigravity-arn-skin)
-[![ARN-Skin Visual Studio Marketplace downloads (JavaScript production deployment, marketplace publishing)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jzbakh/antigravity-arn-skin/badges/.github/badges/marketplace-downloads.json)](https://marketplace.visualstudio.com/items?itemName=jzbakh.antigravity-arn-skin)
-[![ARN-Skin on Open VSX Registry (open source IDE distribution, Eclipse Foundation)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jzbakh/antigravity-arn-skin/badges/.github/badges/openvsx-version.json)](https://open-vsx.org/extension/jzbakh/antigravity-arn-skin)
-[![ARN-Skin Open VSX downloads (open source JavaScript project, multi-platform distribution)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jzbakh/antigravity-arn-skin/badges/.github/badges/openvsx-downloads.json)](https://open-vsx.org/extension/jzbakh/antigravity-arn-skin)
+[![ARN-Skin GitHub Release Version (latest IDE extension release)](https://img.shields.io/github/v/tag/jzbakh/antigravity-arn-skin?label=version&color=blue&sort=semver)](https://github.com/jzbakh/antigravity-arn-skin/tags)
+[![ARN-Skin Visual Studio Marketplace downloads (JavaScript production deployment, marketplace publishing)](https://img.shields.io/endpoint?url=https://gitlab.com/arn_inside/arn-skin/-/raw/badges-gitlab/.gitlab/badges/marketplace-downloads.json)](https://marketplace.visualstudio.com/items?itemName=jzbakh.antigravity-arn-skin)
+[![ARN-Skin Open VSX downloads (open source JavaScript project, multi-platform distribution)](https://img.shields.io/endpoint?url=https://gitlab.com/arn_inside/arn-skin/-/raw/badges-gitlab/.gitlab/badges/openvsx-downloads.json)](https://open-vsx.org/extension/jzbakh/antigravity-arn-skin)
 [![ARN-Skin GitHub repository stars (open source maintainer, JavaScript, GitHub Actions CI/CD, cross-platform tests)](https://img.shields.io/github/stars/jzbakh/antigravity-arn-skin?style=flat&color=gold)](https://github.com/jzbakh/antigravity-arn-skin)
 
 7 UI &amp; syntax themes + customization, 100 % native JavaScript, zero dependencies.
@@ -14,30 +13,25 @@
 
 #### [• ARN-Lifebar - Antigravity IDE extension](https://github.com/jzbakh/antigravity-arn-lifebar)
 
-[![ARN-Lifebar Visual Studio Marketplace version (JavaScript IDE extension in production, real-time status bar, API monitoring)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jzbakh/antigravity-arn-lifebar/badges/.github/badges/marketplace-version.json)](https://marketplace.visualstudio.com/items?itemName=jzbakh.antigravity-arn-lifebar)
-[![ARN-Lifebar Visual Studio Marketplace downloads (JavaScript production deployment, IDE integration)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jzbakh/antigravity-arn-lifebar/badges/.github/badges/marketplace-downloads.json)](https://marketplace.visualstudio.com/items?itemName=jzbakh.antigravity-arn-lifebar)
-[![ARN-Lifebar on Open VSX Registry (open source IDE extension, JavaScript)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jzbakh/antigravity-arn-lifebar/badges/.github/badges/openvsx-version.json)](https://open-vsx.org/extension/jzbakh/antigravity-arn-lifebar)
-[![ARN-Lifebar Open VSX downloads (open source JavaScript project, cross-platform distribution)](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/jzbakh/antigravity-arn-lifebar/badges/.github/badges/openvsx-downloads.json)](https://open-vsx.org/extension/jzbakh/antigravity-arn-lifebar)
+[![ARN-Lifebar GitHub Release Version (latest IDE extension release)](https://img.shields.io/github/v/tag/jzbakh/antigravity-arn-lifebar?label=version&color=blue&sort=semver)](https://github.com/jzbakh/antigravity-arn-lifebar/tags)
+[![ARN-Lifebar Visual Studio Marketplace downloads (JavaScript production deployment, IDE integration)](https://img.shields.io/endpoint?url=https://gitlab.com/arn_inside/antigravity-arn-lifebar/-/raw/badges-gitlab/.gitlab/badges/marketplace-downloads.json)](https://marketplace.visualstudio.com/items?itemName=jzbakh.antigravity-arn-lifebar)
+[![ARN-Lifebar Open VSX downloads (open source JavaScript project, cross-platform distribution)](https://img.shields.io/endpoint?url=https://gitlab.com/arn_inside/antigravity-arn-lifebar/-/raw/badges-gitlab/.gitlab/badges/openvsx-downloads.json)](https://open-vsx.org/extension/jzbakh/antigravity-arn-lifebar)
 [![ARN-Lifebar GitHub repository stars (open source maintainer, JavaScript, language server integration, real-time API polling)](https://img.shields.io/github/stars/jzbakh/antigravity-arn-lifebar?style=flat&color=gold)](https://github.com/jzbakh/antigravity-arn-lifebar)
 
 Real-time AI model quota tracking in the IDE status bar. 100 % native JavaScript, zero dependencies.
 
 ---
 
-#### [• Portfolio Data Analyst](https://github.com/jzbakh/portfolio-data-analyst/)
+#### [• Portfolio Data Analyst](https://github.com/jzbakh/portfolio-data-analyst)
 
-[![Python - 5 projects (Pandas, NumPy, Scikit-learn)](https://img.shields.io/badge/Python-5_projects-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/jzbakh/portfolio-data-analyst/)
-[![SQL - 2 projects (relational databases, joins, aggregation)](https://img.shields.io/badge/SQL-2_projects-4479A1?style=flat&logo=mysql&logoColor=white)](https://github.com/jzbakh/portfolio-data-analyst/)
-[![Power BI - 3 projects (DAX, Power Query, dashboards)](https://img.shields.io/badge/Power_BI-3_projects-F2C811?style=flat&logo=powerbi&logoColor=black)](https://github.com/jzbakh/portfolio-data-analyst/)
-[![KNIME - 1 project (workflows, ETL, data preparation)](https://img.shields.io/badge/KNIME-1_project-FECB00?style=flat)](https://github.com/jzbakh/portfolio-data-analyst/)
-[![Statistics - 3 projects (hypothesis testing, regression, time series, Chi-2, ANOVA, Pearson)](https://img.shields.io/badge/Statistics-3_projects-4CAF50?style=flat)](https://github.com/jzbakh/portfolio-data-analyst/)
-[![Machine Learning - 2 projects (classification, clustering, K-means, PCA, logistic regression)](https://img.shields.io/badge/Machine_Learning-2_projects-FF6F00?style=flat&logo=scikitlearn&logoColor=white)](https://github.com/jzbakh/portfolio-data-analyst/)
+[![Python - 5 projects (Pandas, NumPy, Scikit-learn)](https://img.shields.io/badge/Python-5_projects-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/jzbakh/portfolio-data-analyst)
+[![SQL - 2 projects (relational databases, joins, aggregation)](https://img.shields.io/badge/SQL-2_projects-4479A1?style=flat&logo=mysql&logoColor=white)](https://github.com/jzbakh/portfolio-data-analyst)
+[![Power BI - 3 projects (DAX, Power Query, dashboards)](https://img.shields.io/badge/Power_BI-3_projects-F2C811?style=flat&logo=powerbi&logoColor=black)](https://github.com/jzbakh/portfolio-data-analyst)
+[![KNIME - 1 project (workflows, ETL, data preparation)](https://img.shields.io/badge/KNIME-1_project-FECB00?style=flat)](https://github.com/jzbakh/portfolio-data-analyst)
+[![Statistics - 3 projects (hypothesis testing, regression, time series, Chi-2, ANOVA, Pearson)](https://img.shields.io/badge/Statistics-3_projects-4CAF50?style=flat)](https://github.com/jzbakh/portfolio-data-analyst)
+[![Machine Learning - 2 projects (classification, clustering, K-means, PCA, logistic regression)](https://img.shields.io/badge/Machine_Learning-2_projects-FF6F00?style=flat&logo=scikitlearn&logoColor=white)](https://github.com/jzbakh/portfolio-data-analyst)
 
 The 13 projects completed to earn the Data Analyst degree (U.S. Bachelor's equivalent, WSCUC accredited) from OpenClassrooms.
-
----
-
-*Archived: [ARN-Yes](https://github.com/jzbakh/antigravity-arn-yes) - early Antigravity IDE extension, deprecated since version 1.22.2*
 
 ---
 
