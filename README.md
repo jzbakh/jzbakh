@@ -7,18 +7,18 @@
 [![ARN-Skin Open VSX downloads (open source JavaScript project, multi-platform distribution)](https://img.shields.io/endpoint?url=https://gitlab.com/arn_inside/arn-skin/-/raw/badges-gitlab/.gitlab/badges/openvsx-downloads.json)](https://open-vsx.org/extension/jzbakh/antigravity-arn-skin)
 [![ARN-Skin GitHub repository stars (open source maintainer, JavaScript, GitHub Actions CI/CD, cross-platform tests)](https://img.shields.io/github/stars/jzbakh/antigravity-arn-skin?style=flat&color=gold)](https://github.com/jzbakh/antigravity-arn-skin)
 
-7 UI &amp; syntax themes + customization, 100 % native JavaScript, zero dependencies.
+7 space-themed color themes for your IDE. Change 12 key colors and the extension generates the ~250 derived UI colors in real time.
 
 ---
 
-#### [• ARN-Lifebar - Antigravity IDE extension](https://github.com/jzbakh/antigravity-arn-lifebar)
+#### [• ARN-Lifebar - VS Code extension](https://github.com/jzbakh/antigravity-arn-lifebar)
 
 [![ARN-Lifebar GitHub Release Version (latest IDE extension release)](https://img.shields.io/github/v/tag/jzbakh/antigravity-arn-lifebar?label=version&color=blue&sort=semver)](https://github.com/jzbakh/antigravity-arn-lifebar/tags)
 [![ARN-Lifebar Visual Studio Marketplace downloads (JavaScript production deployment, IDE integration)](https://img.shields.io/endpoint?url=https://gitlab.com/arn_inside/antigravity-arn-lifebar/-/raw/badges-gitlab/.gitlab/badges/marketplace-downloads.json)](https://marketplace.visualstudio.com/items?itemName=jzbakh.antigravity-arn-lifebar)
 [![ARN-Lifebar Open VSX downloads (open source JavaScript project, cross-platform distribution)](https://img.shields.io/endpoint?url=https://gitlab.com/arn_inside/antigravity-arn-lifebar/-/raw/badges-gitlab/.gitlab/badges/openvsx-downloads.json)](https://open-vsx.org/extension/jzbakh/antigravity-arn-lifebar)
 [![ARN-Lifebar GitHub repository stars (open source maintainer, JavaScript, language server integration, real-time API polling)](https://img.shields.io/github/stars/jzbakh/antigravity-arn-lifebar?style=flat&color=gold)](https://github.com/jzbakh/antigravity-arn-lifebar)
 
-Real-time AI model quota tracking in the IDE status bar. 100 % native JavaScript, zero dependencies.
+Minimalist extension to view your Google Antigravity AI quotas in your IDE's status bar.
 
 ---
 

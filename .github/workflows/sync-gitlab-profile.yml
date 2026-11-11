@@ -1,0 +1,60 @@
+# Keeps the GitLab profile (gitlab.com/jzbakh) in step with this one.
+# README.md here is the only file to edit, from any PC or from github.com.
+# On every push to main, this job builds the GitLab version of README.md
+# (same text, GitLab links) and commits it to gitlab.com/jzbakh/jzbakh.
+# Never edit README.md on GitLab: the next sync overwrites it.
+#
+# One-time setup: a deploy key with write access on gitlab.com/jzbakh/jzbakh,
+# whose private half is stored in this repository's GITLAB_DEPLOY_KEY secret.
+name: Sync GitLab profile
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - .github/gitlab_readme.py
+      - .github/workflows/sync-gitlab-profile.yml
+  workflow_dispatch:
+
+concurrency:
+  group: sync-gitlab-profile
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Build the GitLab README
+        run: python3 .github/gitlab_readme.py README.md "$RUNNER_TEMP/README.md"
+
+      - name: Commit it to gitlab.com/jzbakh/jzbakh
+        env:
+          GITLAB_DEPLOY_KEY: ${{ secrets.GITLAB_DEPLOY_KEY }}
+        run: |
+          if [ -z "$GITLAB_DEPLOY_KEY" ]; then
+            echo "::error::The GITLAB_DEPLOY_KEY secret is missing (see the header of this workflow)"
+            exit 1
+          fi
+          install -m 700 -d ~/.ssh
+          printf '%s\n' "$GITLAB_DEPLOY_KEY" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          # gitlab.com ED25519 host key, SHA256:eUXGGm1YGsMAS7vkcx6JOJdOGHPem5gQp4taiCfCLB8
+          echo 'gitlab.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAfuCHKVTjquxvt6CM6tdG4SLp1Btn/nOeHHE5UOzRdf' > ~/.ssh/known_hosts
+
+          git clone --depth 1 git@gitlab.com:jzbakh/jzbakh.git "$RUNNER_TEMP/gitlab"
+          cd "$RUNNER_TEMP/gitlab"
+          cp "$RUNNER_TEMP/README.md" README.md
+          if git diff --quiet; then
+            echo "The GitLab README is already up to date"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Sync profile README from GitHub ${GITHUB_SHA::7}"
+          git push origin HEAD:main
